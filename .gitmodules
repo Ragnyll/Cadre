@@ -28,3 +28,6 @@
 [submodule "Joueur.ts"]
 	path = Joueur.ts
 	url = git@github.com:siggame/Joueur.ts
+[submodule "joueur.rs"]
+	path = joueur.rs
+	url = git@gitlab.com:Ragnyll/joueur.rs.git
